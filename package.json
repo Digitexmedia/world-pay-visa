@@ -1,0 +1,39 @@
+{
+  "name": "world-pay-visa",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A global platform to buy virtual and physical Visa cards.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "lint": "eslint . --ext .js,.jsx",
+    "format": "prettier --write ."
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.23.0",
+    "tailwindcss": "^3.4.1",
+    "clsx": "^2.1.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.2.0",
+    "autoprefixer": "^10.4.16",
+    "eslint": "^8.58.0",
+    "eslint-plugin-react": "^7.34.1",
+    "postcss": "^8.4.33",
+    "prettier": "^3.2.5",
+    "vite": "^5.2.0"
+  },
+  "keywords": [
+    "visa",
+    "payment",
+    "virtual-cards",
+    "buy-visa-cards",
+    "global-payments"
+  ],
+  "author": "Your Digitex smart technologies",
+  "license": "MIT"
+}
